@@ -1,6 +1,5 @@
 ---
-title: Welcome to my blog
+title: Bienvenido a mi blog
 ---
 
-Esta es la primera entrada
-
+Esta es la página principal
